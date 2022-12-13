@@ -1,0 +1,38 @@
+html{
+    background-color:grey;
+    
+}
+form{
+    background-color:white;
+    
+    border:3px solid black;
+    width:300px;
+    height:400px;
+    padding:30px;
+    margin:20px 450px;
+    
+}
+
+
+input{
+border-radius:5px;
+
+}
+input:hover{
+    background-color:yellow;
+}
+button:hover{
+    background-color:yellow;
+}
+button{
+    margin: 0px 100px;
+    background-color:#A0CED1;
+    
+}
+#set{
+margin: 0px 100px;
+width:70px;
+background-color:#A0CED1;
+}
+h1 {text-align: center;
+}
